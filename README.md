@@ -1,6 +1,4 @@
-## README
-
-### Project Overview
+## Project Overview
 This project provides a **User Management API** with features like user registration, login, token refresh, and CRUD operations for user-related data. The system also includes unit tests for key functionalities.
 
 ### Requirements
